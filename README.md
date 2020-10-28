@@ -10,6 +10,9 @@ I am a Fullstack Developer located in Portland, TN.  I am deeply intrigued on ho
 
 ### 🎯 Skills I have acquired:
 <p align="center">
+  
+<br/>
+  
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/mzstevens69)](https://github.com/mzstevens69) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/mzstevens69)](https://github.com/mzstevens69) 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/mzstevens69)](https://github.com/mzstevens69)
@@ -18,6 +21,7 @@ I am a Fullstack Developer located in Portland, TN.  I am deeply intrigued on ho
 [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/mzstevens69)](https://github.com/mzstevens69)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/mzstevens69)](https://github.com/mzstevens69)
 </p>
+
 <br/>
 
 ![mzstevens github Stats](https://github-readme-stats.vercel.app/api?username=mzstevens69&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
