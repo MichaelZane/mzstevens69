@@ -1,7 +1,7 @@
 ![Profile Views](https://visitor-badge.glitch.me/badge?page_id=mzstevens69.visitor-badge)
 
 <!--- ${your.username}.${your.repo.id}--->
-#Hello!
+# Hello!  🎼🎶🎵
 
 I am a Fullstack Developer located in Portland, TN.  I am deeply intrigued on how you can group and organize words(syntax) into fully functioning web apps and pages, magically creating something from a blank page.  The thing created began as just a thought or a curiousity.
 
