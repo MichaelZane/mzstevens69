@@ -23,7 +23,7 @@ I am a Fullstack Developer located in Portland, TN.  I am deeply intrigued on ho
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/mzstevens69)](https://github.com/mzstevens69)
 <br/>
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&link=https://github.com/mzstevens69)](https://github.com/mzstevens69)
-[![LeetCode](https://img.shields.io/badge/-02569B?style=flat&logo=leetCode&logoColor=white&link=https://github.com/mzstevens69 )](https://github.com/mzstevens69)
+
 </p>
 <br/>
 <br/>
