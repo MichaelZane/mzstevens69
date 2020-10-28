@@ -22,8 +22,7 @@ I am a Fullstack Developer located in Portland, TN.  I am deeply intrigued on ho
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1572B6?style=flat&logo=postgresql&link=https://github.com/mzstevens69)](https://github.com/mzstevens69)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/mzstevens69)](https://github.com/mzstevens69)
 <br/>
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&link=https://github.com/mzstevens69 "GitHub")](https://github.com/mzstevens69)
-[![Vim](https://img.shields.io/badge/-019733?style=flat&logo=Vim&logoColor=white&link=https://github.com/mzstevens69 "Vim")](https://github.com/mzstevens69)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&link=https://github.com/mzstevens69 "GitHub")](https://github.com/mzstevens69)[![Vim](https://img.shields.io/badge/-019733?style=flat&logo=Vim&logoColor=white&link=https://github.com/mzstevens69 "Vim")](https://github.com/mzstevens69)
 <br/>
 </p>
 <br/>
