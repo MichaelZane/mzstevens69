@@ -1,7 +1,7 @@
+![](https://visitor-badge.glitch.me/badge?page_id=8bithemant.8bithemant)
 
 
-
-I am a Fullstack Developer located in Portland, TN. I attended Lambda School a web development bootcamp and was fully endorsed in September 2020. 
+I am a Fullstack Developer located in Portland, TN.  
 - 💻 I am Looking for a full-time developer position
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
