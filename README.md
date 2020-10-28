@@ -23,6 +23,7 @@ I am a Fullstack Developer located in Portland, TN.  I am deeply intrigued on ho
 [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/mzstevens69)](https://github.com/mzstevens69)
 [![Express](https://img.shields.io/badge/-Express-green?style=flat&logo=Express&link=https://github.com/mzstevens69)](https://github.com/mzstevens69)
 [![Knex](https://img.shields.io/badge/-Knex-green?style=flat&logo=Knex&link=https://github.com/mzstevens69)](https://github.com/mzstevens69)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1572B6?style=flat&logo=postgresql&link=https://github.com/mzstevens69)](https://github.com/mzstevens69)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/mzstevens69)](https://github.com/mzstevens69)
 </p>
 <br/>
