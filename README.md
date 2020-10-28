@@ -16,7 +16,7 @@ I am a Fullstack Developer located in Portland, TN.  I am deeply intrigued on ho
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/mzstevens69)](https://github.com/mzstevens69) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/mzstevens69)](https://github.com/mzstevens69) 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/mzstevens69)](https://github.com/mzstevens69)
-[![Pyhton](https://img.shields.io/badge/-Python-black?style=flat&logo=javascript&link=https://github.com/mzstevens69)](https://github.com/mzstevens69)
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/mzstevens69)](https://github.com/mzstevens69)
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/mzstevens69)](https://github.com/mzstevens69)
 [![Heroku](https://img.shields.io/badge/-Heroku-blueviolet?style=flat&logo=heroku&link=https://github.com/mzstevens69)](https://github.com/mzstevens69)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/mzstevens69)](https://github.com/mzstevens69)
