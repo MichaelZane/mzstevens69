@@ -25,7 +25,7 @@ I am a Fullstack Developer located in Portland, TN.  I am deeply intrigued on ho
 <br/>
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&link=https://github.com/mzstevens69)](https://github.com/mzstevens69)
 [![Vim](https://img.shields.io/badge/-019733?style=flat&logo=Vim&logoColor=white&link=https://github.com/mzstevens69 "Vim")](https://github.com/mzstevens69)
-[![Visual Studio](https://img.shields.io/badge/-019733?style=flat&logo=Visual-studio-Code&logoColor=white&link=https://github.com/mzstevens69)](https://github.com/mzstevens69)
+[![Visual Studio](https://img.shields.io/badge/-blue?style=flat&logo=Visual-studio-Code&logoColor=white&link=https://github.com/mzstevens69)](https://github.com/mzstevens69)
 
 
 </p>
