@@ -21,6 +21,8 @@ I am a Fullstack Developer located in Portland, TN.  I am deeply intrigued on ho
 [![Redux](https://img.shields.io/badge/-Redux-black?style=flat&logo=redux&link=https://github.com/mzstevens69)](https://github.com/mzstevens69)
 [![Heroku](https://img.shields.io/badge/-Heroku-blueviolet?style=flat&logo=heroku&link=https://github.com/mzstevens69)](https://github.com/mzstevens69)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/mzstevens69)](https://github.com/mzstevens69)
+[![Express](https://img.shields.io/badge/-Express-green?style=flat&logo=Express&link=https://github.com/mzstevens69)](https://github.com/mzstevens69)
+[![Knex](https://img.shields.io/badge/-Knex-green?style=flat&logo=Knex&link=https://github.com/mzstevens69)](https://github.com/mzstevens69)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/mzstevens69)](https://github.com/mzstevens69)
 </p>
 <br/>
