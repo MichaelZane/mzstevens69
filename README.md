@@ -6,10 +6,8 @@ I am a Fullstack Developer located in Portland, TN.  I am deeply intrigued on ho
 
 
 ### 🎯 Skills I have acquired:
-<p align="center">
-  
-<br/>
-  
+<p align="center"> 
+<br/> 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/mzstevens69)](https://github.com/mzstevens69) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/mzstevens69)](https://github.com/mzstevens69) 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/mzstevens69)](https://github.com/mzstevens69)
@@ -23,6 +21,7 @@ I am a Fullstack Developer located in Portland, TN.  I am deeply intrigued on ho
 [![Knex](https://img.shields.io/badge/-Knex-green?style=flat&logo=Knex&link=https://github.com/mzstevens69)](https://github.com/mzstevens69)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1572B6?style=flat&logo=postgresql&link=https://github.com/mzstevens69)](https://github.com/mzstevens69)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/mzstevens69)](https://github.com/mzstevens69)
+[![Github](https://img.shields.io/badge/-Github-black?style=flat&logo=github&link=https://github.com/mzstevens69)](https://github.com/mzstevens69)
 <br/>
 </p>
 <br/>
